@@ -147,6 +147,8 @@ body {
 	font-family: NanumSquareR;
 	font-size: 30px;
 }
-element.style {
-    padding-top: 5%;
+.ad-banner{
+	width: 32px;
+	margin: 0 auto;
+	
 }
