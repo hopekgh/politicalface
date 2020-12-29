@@ -1,0 +1,4 @@
+User-Age:*
+Allow: /
+
+Sitemap: https://adoring-cori-eecf79.netlify.app/
