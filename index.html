@@ -182,6 +182,7 @@
 
 						$('.image-title').html(input.files[0].name);
 						init().then(() => {
+							$('.result-message').html(r'기다려 주세요');
 							predict();
 						});
 					};
