@@ -1,4 +1,4 @@
-User-Age:*
+User-agent: *
 Allow: /
 
-Sitemap: https://adoring-cori-eecf79.netlify.app/
+Sitemap: https://politicalface.tk/sitemap.xml
