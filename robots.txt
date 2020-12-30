@@ -1,0 +1,7 @@
+User-agent: *
+Allow:/
+<<<<<<< HEAD
+Sitemap: https://politicalface.tk/sitemap.xml
+=======
+Sitemap: https://politicalface.tk/sitemap.xml
+>>>>>>> 1b8ed17f034555c072eaf01427574a5c4a1a6d9d
