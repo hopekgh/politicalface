@@ -1,4 +1,3 @@
 User-agent: *
 Allow: /
-
 Sitemap: https://politicalface.tk/sitemap.xml
